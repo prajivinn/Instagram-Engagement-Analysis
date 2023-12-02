@@ -1,10 +1,66 @@
 # Instagram-Engagement-Analysis
 
-### Context
+### Project Overview
 
 Data Analyst Duo is an instagram community (@𝒅𝒂𝒕𝒂𝒂𝒏𝒂𝒍𝒚𝒔𝒕𝒅𝒖𝒐) of ~104𝐤 data enthusiasts founded by two individuals Aditi & Kalpesh. They share content around statistics, data science & analytics with budding data aspirants.
 
 The goal is to design a data-driven Instagram engagement analysis dashboard to gain insights into the performance of different post types on Data Analyst Duo’s Instagram account and provide recommendations to the duo.
+
+### Data Dictionary
+
+There are **7** separate spreadsheets of data which contains stats about the channel @𝒅𝒂𝒕𝒂𝒂𝒏𝒂𝒍𝒚𝒔𝒕𝒅𝒖𝒐
+
+**Reach**
+
+Reach - It shows how many people did our account (@𝒅𝒂𝒕𝒂𝒂𝒏𝒂𝒍𝒚𝒔𝒕𝒅𝒖𝒐) reached in that particular day.
+Date - It shows the date starting from September 1st 2022 till August 19th 2023.
+
+**Profile Visits**
+
+Instagram Followers Visit - It shows how many people visited or checked our account (@𝒅𝒂𝒕𝒂𝒂𝒏𝒂𝒍𝒚𝒔𝒕𝒅𝒖𝒐) in that particular day.
+Date - It shows the date starting from September 1st 2022 till August 19th 2023.
+
+**New Followers**
+
+New Instagram Followers - It shows how many followers that we gained on this particular day.
+Date - This starts from 21st November 2022 till August 19th 2023.
+
+**Content**
+
+Post_ID - It shows unique post ID for each instagram post.
+Account_ID - Shows the common ID of the account @𝒅𝒂𝒕𝒂𝒂𝒏𝒂𝒍𝒚𝒔𝒕𝒅𝒖𝒐.
+Account_Username - Shows the Account Name.
+Description - Shows the description of the post. It is basically the caption.
+Duration - Refers to the time in seconds of the post(Instagram Reels).
+Publish_Time - Shows the time when the post is published.
+PermaLink - Refers the Link to the instagram posts.
+Post_type - Refers to the type of the post. We have three types such as IG Carousel, IG Image, IG Reel.
+DATE - Refers to the validity of the post.
+COMMENT - This column is empty.
+Impressions - The number of times your post was viewed. It includes multiple views of your posts by the same accounts.
+Reach - The number of unique accounts that saw any of your posts or stories at least once.
+Shares - The number of times the post was shared.
+Follows - The number of new accounts that started following your Instagram account or the new followers we gained from that particular post.
+3S Views - How many people watched atleast 3 seconds of the IG reels post. This is a new metric that has been introducted becasue it is a study on instagram that it takes 3 seconds for people to decide whether they want to watch the video completely or not.
+Likes - The number of likes on the post.
+Comments - The number of comments on the post.
+Saves - How many people saved the post.
+
+**Age_Gender**
+
+Age - Shows the Age of the people.
+Women - Number of Females who follow the instagram page @𝒅𝒂𝒕𝒂𝒂𝒏𝒂𝒍𝒚𝒔𝒕𝒅𝒖𝒐.
+Men - Number of Males who follow the instagram page @𝒅𝒂𝒕𝒂𝒂𝒏𝒂𝒍𝒚𝒔𝒕𝒅𝒖𝒐.
+
+**Top_City**
+
+Top towns/cities - Shows the cities/towns where the followers are from.
+Value - Displays the total number of followers for each city.
+
+**Top_Countries**
+
+Top Countries - Shows the country where the followers are from.
+Value - Displays the total number of followers from each country.
 
 ### Actions
 
@@ -22,7 +78,7 @@ We determined the average engagement metric(reach, impressions, shares, likes, c
 
 Finally we estimated the metrics such as Total Followers, Total Post, Max of Cumulative Followers, Growth_Rate, Total Reach using pivot tables and along with the above calculated metrics we created pivot charts. Using bar chart, we have shown the % of followers based on age-group, city and country and also the average engagements metrics vs the duration of the reel. At last, using line chart we have shown the cumulative growth of followers and cumulative reach per month.
 
-We re-arranged and adjusted the font size and color of all the text boxes, pivot bar/line charts to create a final dashboard. Then, we extracted insights and provided few recommendations.
+We re-arranged and adjusted the font size and color of all the text boxes, pivot bar/line charts to create a final dashboard. Then, we extracted insights and provided recommendations.
 
 ### Results
 
