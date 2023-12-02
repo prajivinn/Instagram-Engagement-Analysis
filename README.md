@@ -1,6 +1,6 @@
 # Instagram-Engagement-Analysis
 
-PROJECT PORTFOLIO LINK: https://prajivinn.github.io/2023/08/20/Instagram-Engagement-Analysis-Dashboard-Using-Excel.html
+Project_link: https://prajivinn.github.io/2023/08/20/Instagram-Engagement-Analysis-Dashboard-Using-Excel.html
 
 ### Project Overview
 
