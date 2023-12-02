@@ -12,9 +12,8 @@ There are **7** separate spreadsheets of data which contains stats about the cha
 
 **Reach**
 
-Reach - It shows how many people did our account (@𝒅𝒂𝒕𝒂𝒂𝒏𝒂𝒍𝒚𝒔𝒕𝒅𝒖𝒐) reached in that particular day.
-
-Date - It shows the date starting from September 1st 2022 till August 19th 2023.
+* Reach - It shows how many people did our account (@𝒅𝒂𝒕𝒂𝒂𝒏𝒂𝒍𝒚𝒔𝒕𝒅𝒖𝒐) reached in that particular day.
+* Date - It shows the date starting from September 1st 2022 till August 19th 2023.
 
 **Profile Visits**
 
