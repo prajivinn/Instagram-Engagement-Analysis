@@ -1,5 +1,7 @@
 # Instagram-Engagement-Analysis
 
+PROJECT PORTFOLIO LINK: https://prajivinn.github.io/2023/08/20/Instagram-Engagement-Analysis-Dashboard-Using-Excel.html
+
 ### Project Overview
 
 Data Analyst Duo is an instagram community (@𝒅𝒂𝒕𝒂𝒂𝒏𝒂𝒍𝒚𝒔𝒕𝒅𝒖𝒐) of ~104𝐤 data enthusiasts founded by two individuals Aditi & Kalpesh. They share content around statistics, data science & analytics with budding data aspirants.
