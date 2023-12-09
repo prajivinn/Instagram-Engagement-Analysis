@@ -87,3 +87,18 @@ We re-arranged and adjusted the font size and color of all the text boxes, pivot
 
 ![1694512050561](https://github.com/prajivinn/Instagram-Engagement-Analysis/assets/108303914/14cafe7d-d42c-4b06-9c54-285244b9c48c)
 
+Based on the observations from the dashboard, below are the recommendations suggested to the duo.
+
+* Focus on Strengthening the hook i.e making it attractive or engaging the **IG-Video** reels at the start and also give weightage on the topics/content for the reels such as "Python", "Data Analytics", "SQl", "Statistics", "Interview preparation & questions for SQL/Python/Analyst roles" because as per the observations of the data, it is found that **58%** of the people skip the content within 3 seconds.
+* Post **IG-Videos** consistently because it is found that it is performing well interms of engagement and also wider reach can be attained compared to IG Images & IG Carousel. With respect to **Reach and Impressions**, New followers can be gained if they put IG Videos but inorder to **engage the existing audience of the page, the duo should post IG carousel because of high number of Comments and Saves**. So go with IG Videos followed by IG Carousel by posting consistently.
+
+### Growth/Next Steps
+
+Social media feeds (specifically what people/posts you see when you log on) are driven by an algorithm but these can change from time to time. For example, on LinkedIn, there was a time when polls got a huge amount of reach, then it became sharing PDF documents. The algorithm was being changed behind the scenes to up-weight or down-weight certain types of post type.
+
+As of now IG videos/reels, act as better engagement widely in general.
+
+In future, there might be possibilities that they may change the algorithm to favor image posts or some newly discovered post type which can act as better engagement for the users
+
+So keeping this analysis up to date would help the duo keep close to what was working now rather than what worked several months ago.
+
