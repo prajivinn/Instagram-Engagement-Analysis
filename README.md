@@ -104,7 +104,7 @@ So keeping this analysis up to date would help the duo keep close to what was wo
 
 ### Key learning after this project:
 
-Data cleaning is the process of identifying and correcting or removing errors, inconsistencies, and inaccuracies in a dataset.
-Observation writing involves examining the data and noting any notable findings, anomalies, or areas of interest.
-Exploratory Data Analysis (EDA) is the process of examining and visualizing a dataset to understand its main characteristics, such as the distribution of data, the relationships between variables, and any anomalies or patterns that may exist. The goal of EDA is to uncover insights and trends that can help inform further analysis or decision-making. It is often the first step in any data analysis project, as it provides a foundation for more advanced statistical methods and models.
-Treat Null values basis domain knowledge aka using Domain-specific imputation
+* Data cleaning is the process of identifying and correcting or removing errors, inconsistencies, and inaccuracies in a dataset.
+* Observation writing involves examining the data and noting any notable findings, anomalies, or areas of interest.
+* Exploratory Data Analysis (EDA) is the process of examining and visualizing a dataset to understand its main characteristics, such as the distribution of data, the relationships between variables, and any anomalies or patterns that may exist. The goal of EDA is to uncover insights and trends that can help inform further analysis or decision-making. It is often the first step in any data analysis project, as it provides a foundation for more advanced statistical methods and models.
+* Treat Null values basis domain knowledge aka using Domain-specific imputation
